@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Suman Kumar Raj 👋</h1>
+  <h1>Welcome to my GitHub! I'm Suman 👋</h1>
   
   <!-- Dynamic Typing Effect Subtitle -->
   <a href="">
