@@ -18,12 +18,12 @@
 
 ## 👨‍💻 About Me
 
-I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**, and **scalable deep learning pipelines**. As a Dual Degree (B.Tech + M.Tech) graduate in Ocean Engineering and Naval Architecture from **IIT Kharagpur** (CGPA: 8.12)[cite: 1], my focus is on bridging theoretical algorithmic problem-solving with deterministic, production-grade AI systems.
+I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**, and **scalable deep learning pipelines**. As a Dual Degree (B.Tech + M.Tech) graduate in Ocean Engineering and Naval Architecture from **IIT Kharagpur** (CGPA: 8.12), my focus is on bridging theoretical algorithmic problem-solving with deterministic, production-grade AI systems.
 
 - 🔭 **I’m currently focused on:** Multi-Agent Orchestration (LangGraph), Long-Term Memory Systems, and Agentic RAG.
-- 🌱 **I have expertise in:** Deep Learning (TensorFlow/Keras), LangChain, and orchestrating complex ML pipelines[cite: 1].
-- 🏆 **Milestones:** Secured **All India Rank (AIR) 64** in GATE 2024 | Recipient of the Prof. J.P. Ghose Memorial Award | Gold Medalist in Gymkhana Championship Choreography[cite: 1].
-- 👨‍🏫 **Leadership:** Guided 500+ aspiring engineers at AlgoZenith in Data Structures, Algorithms, and interview problem-solving[cite: 1].
+- 🌱 **I have expertise in:** Deep Learning (TensorFlow/Keras), LangChain, and orchestrating complex ML pipelines.
+- 🏆 **Milestones:** Secured **All India Rank (AIR) 64** in GATE 2024 | Recipient of the Prof. J.P. Ghose Memorial Award | Gold Medalist in Gymkhana Championship Choreography.
+- 👨‍🏫 **Leadership:** Guided 500+ aspiring engineers at AlgoZenith in Data Structures, Algorithms, and interview problem-solving.
 - 📫 **How to reach me:** [sumanraj4176@gmail.com](mailto:sumanraj4176@gmail.com) | [Portfolio](https://skr18156592.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/sumanraj11/)
 
 ---
@@ -53,48 +53,48 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
 ## 🚀 Featured Projects
 
 ### 🤖 Multi-Agent Research Assistant
-* **Tech Stack:** `Python` `LangGraph` `LangChain` `OpenAI` `Tavily` `Wikipedia` `LangSmith`[cite: 1]
-* Built a multi-agent research system using LangGraph to decompose complex topics into specialized analyst perspectives with human-in-the-loop refinement[cite: 1].
-* Implemented parallel information retrieval using Tavily and Wikipedia, enabling agents to gather and synthesize context from multiple sources[cite: 1].
-* Implemented a map-reduce pipeline to parallelize analyst interviews and synthesize a comprehensive final report[cite: 1].
+* **Tech Stack:** `Python` `LangGraph` `LangChain` `OpenAI` `Tavily` `Wikipedia` `LangSmith`
+* Built a multi-agent research system using LangGraph to decompose complex topics into specialized analyst perspectives with human-in-the-loop refinement.
+* Implemented parallel information retrieval using Tavily and Wikipedia, enabling agents to gather and synthesize context from multiple sources.
+* Implemented a map-reduce pipeline to parallelize analyst interviews and synthesize a comprehensive final report.
 
 ### 🧠 MyTaskManager
-* **Tech Stack:** `Python` `LangGraph` `LangChain` `OpenAI` `Pydantic` `Trustcall`[cite: 1]
-* Built a stateful AI task-management agent using LangGraph that maintains short-term conversational state and structured long-term memory across interactions[cite: 1].
-* Designed separate Profile, To-Do, and Instruction memory with Pydantic schemas, enabling structured memory extraction, updates, and personalized task management[cite: 1].
-* Implemented conditional agent routing and cyclic workflows to determine when memory updates are required, route operations to the appropriate memory node, and return control to the main agent[cite: 1].
+* **Tech Stack:** `Python` `LangGraph` `LangChain` `OpenAI` `Pydantic` `Trustcall`
+* Built a stateful AI task-management agent using LangGraph that maintains short-term conversational state and structured long-term memory across interactions.
+* Designed separate Profile, To-Do, and Instruction memory with Pydantic schemas, enabling structured memory extraction, updates, and personalized task management.
+* Implemented conditional agent routing and cyclic workflows to determine when memory updates are required, route operations to the appropriate memory node, and return control to the main agent.
 
 ### 🔍 Fingerprint Liveness Detection (Presentation Attack Detection)
-* **Tech Stack:** `Python` `TensorFlow` `Keras` `MobileNetV3-Small` `OpenCV`[cite: 1]
-* Built a Presentation Attack Detection (PAD) system using MobileNetV3-Small transfer learning to classify fingerprint images as LIVE or SPOOF for biometric authentication[cite: 1].
-* Developed an end-to-end pipeline covering dataset splitting, image augmentation, ImageNet normalization, model training, threshold calibration, and single-image inference[cite: 1].
-* Calibrated the threshold against a target BPCER of 3% and evaluated held-out test performance using APCER, BPCER, ACER, EER, ROC-AUC, F1-score, and APCER-BPCER trade-off analysis[cite: 1].
+* **Tech Stack:** `Python` `TensorFlow` `Keras` `MobileNetV3-Small` `OpenCV`
+* Built a Presentation Attack Detection (PAD) system using MobileNetV3-Small transfer learning to classify fingerprint images as LIVE or SPOOF for biometric authentication.
+* Developed an end-to-end pipeline covering dataset splitting, image augmentation, ImageNet normalization, model training, threshold calibration, and single-image inference.
+* Calibrated the threshold against a target BPCER of 3% and evaluated held-out test performance using APCER, BPCER, ACER, EER, ROC-AUC, F1-score, and APCER-BPCER trade-off analysis.
 
 ### 📈 Lending Club Risk Prediction
-* **Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow/Keras`[cite: 1]
-* Built an end-to-end credit risk prediction pipeline using TensorFlow/Keras on 396K+ Lending Club loan records, covering missing-value handling, categorical encoding, feature engineering, and MinMax scaling[cite: 1].
-* Trained a deep neural network with ReLU activations, dropout, and sigmoid output to classify loans as fully paid or defaulted[cite: 1].
-* Achieved a **0.93 F1-score** on the test set, effectively handling significant class imbalance in loan default prediction[cite: 1].
+* **Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow/Keras`
+* Built an end-to-end credit risk prediction pipeline using TensorFlow/Keras on 396K+ Lending Club loan records, covering missing-value handling, categorical encoding, feature engineering, and MinMax scaling.
+* Trained a deep neural network with ReLU activations, dropout, and sigmoid output to classify loans as fully paid or defaulted.
+* Achieved a **0.93 F1-score** on the test set, effectively handling significant class imbalance in loan default prediction.
 
 ---
 
 ## 🌐 Open Source Contributions
 
 ### 📦 CodeBeat — *Open-Source Python Package*
-* Created a Python profiling package on PyPI for function tracing and execution-time analysis to identify performance bottlenecks[cite: 1].
+* Created a Python profiling package on PyPI for function tracing and execution-time analysis to identify performance bottlenecks.
 
 ---
 
 ## 💼 Experience & Mentorship
 
-* **AI/ML Engineer Intern** | *MakeMyBrain* `(May 2024 – Jul 2024)`[cite: 1]
-  * Built an end-to-end mood-based music recommendation RAG system, processing structured metadata, acoustic features, and textual profiles across audio catalogs[cite: 1].
-  * Engineered a hybrid search pipeline combining BM25 keyword matching and dense vector embeddings ($\alpha=0.4$) boosting retrieval Recall@10 from 0.61 to 0.79 compared to lexical search alone[cite: 1].
-  * Implemented a cross-encoder re-ranking stage to filter top 100 retrieved candidates down to top 10-20 tracks before LLM generation, ensuring personalized and context-aware recommendations[cite: 1].
-* **Teaching Assistant** | *Indian Institute of Technology, Kharagpur* `(Aug 2023 – May 2025)`[cite: 1]
-  * Conducted tutorials, evaluated assignments, and led doubt-clearing sessions for undergraduate courses at IIT Kharagpur[cite: 1].
-* **Mentor** | *AlgoZenith* `(Oct 2022 – May 2024)`[cite: 1]
-  * Mentored 500+ students in Data Structures and Algorithms, guiding them through complex coding challenges and technical problem-solving[cite: 1].
+* **AI/ML Engineer Intern** | *MakeMyBrain* `(May 2024 – Jul 2024)`
+  * Built an end-to-end mood-based music recommendation RAG system, processing structured metadata, acoustic features, and textual profiles across audio catalogs.
+  * Engineered a hybrid search pipeline combining BM25 keyword matching and dense vector embeddings ($\alpha=0.4$) boosting retrieval Recall@10 from 0.61 to 0.79 compared to lexical search alone.
+  * Implemented a cross-encoder re-ranking stage to filter top 100 retrieved candidates down to top 10-20 tracks before LLM generation, ensuring personalized and context-aware recommendations.
+* **Teaching Assistant** | *Indian Institute of Technology, Kharagpur* `(Aug 2023 – May 2025)`
+  * Conducted tutorials, evaluated assignments, and led doubt-clearing sessions for undergraduate courses at IIT Kharagpur.
+* **Mentor** | *AlgoZenith* `(Oct 2022 – May 2024)`
+  * Mentored 500+ students in Data Structures and Algorithms, guiding them through complex coding challenges and technical problem-solving.
 
 ---
 
