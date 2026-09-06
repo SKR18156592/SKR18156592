@@ -2,14 +2,15 @@
   <h1>Welcome to my GitHub! I'm Suman 👋</h1>
   
   <!-- Dynamic Typing Effect Subtitle -->
-  <a href="">
+  <a href="https://skr18156592.github.io/portfolio/">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%2F+Machine+Learning+Engineer;Architecting+Multi-Agent+Systems;Building+Scalable+ML+Pipelines;Deep+Learning+%26+Generative+AI" alt="Typing Animation" />
   </a>
   <br>
   <p>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sumanraj4176@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://linkedin.com/in/suman-kumar-raj"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://leetcode.com/suman-kumar-raj"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="https://skr18156592.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://www.linkedin.com/in/sumanraj11/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/sumanraj112002/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   </p>
 </div>
 
@@ -23,7 +24,7 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
 - 🌱 **I have expertise in:** Deep Learning (TensorFlow/Keras), LangChain, and orchestrating complex ML pipelines.
 - 🏆 **Milestones:** Secured **All India Rank (AIR) 64** in GATE 2024 | Recipient of the Prof. J.P. Ghose Memorial Award.
 - 👨‍🏫 **Leadership:** Guided 500+ aspiring engineers at AlgoZenith in Data Structures, Algorithms, and interview problem-solving.
-- 📫 **How to reach me:** sumanraj4176@gmail.com
+- 📫 **How to reach me:** [sumanraj4176@gmail.com](mailto:sumanraj4176@gmail.com) | [Portfolio](https://skr18156592.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/sumanraj11/)
 
 ---
 
