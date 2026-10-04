@@ -109,5 +109,12 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SKR18156592&show_icons=true&theme=radical&hide_border=true&hide=contribs&hide_rank=true" alt="Suman's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=SKR18156592&theme=radical&hide_border=true" alt="Suman's GitHub Streak" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKR18156592&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
 </div>
