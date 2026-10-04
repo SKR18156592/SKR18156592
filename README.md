@@ -109,5 +109,5 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKR18156592&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKR18156592&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" alt="Top Languages" />
 </div>
