@@ -75,7 +75,7 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
 * **Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow/Keras`
 * Built an end-to-end credit risk prediction pipeline using TensorFlow/Keras on 396K+ Lending Club loan records, covering missing-value handling, categorical encoding, feature engineering, and MinMax scaling.
 * Trained a deep neural network with ReLU activations, dropout, and sigmoid output to classify loans as fully paid or defaulted.
-* Achieved a **0.93 F1-score** on the test set, effectively handling significant class imbalance in loan default prediction.
+* Achieved **89% test accuracy** and a **0.93 F1-score** on fully-paid loans; defaults are flagged with **0.99 precision** at 0.43 recall, reflecting the ~80/20 class imbalance.
 
 ### 🏋️ Full-Stack: [IronTrack](https://github.com/SKR18156592/IronTrack)
 * **Tech Stack:** `JavaScript` `Vite` `Supabase` `IndexedDB` `Service Workers` `Vitest` `Playwright`
@@ -87,7 +87,7 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
 
 ## 🌐 Open Source
 
-### 📦 [CodeBeat](https://github.com/SKR18156592/CodeBeat) — *Open-Source Python Package*
+### 📦 [CodeBeat](https://github.com/SKR18156592/CodeBeat) — *Open-Source Python Package* [![PyPI](https://img.shields.io/pypi/v/codebeat.svg)](https://pypi.org/project/codebeat/)
 * Created a Python profiling package on [PyPI](https://pypi.org/project/codebeat/) for function tracing and execution-time analysis to identify performance bottlenecks.
 * Install: `pip install codebeat`
 
