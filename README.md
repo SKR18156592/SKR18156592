@@ -24,7 +24,7 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
 - 🌱 **I have expertise in:** Deep Learning (TensorFlow/Keras), LangChain, and orchestrating complex ML pipelines.
 - 🏆 **Milestones:** Secured **All India Rank (AIR) 64** in GATE 2024 | Recipient of the Prof. J.P. Ghose Memorial Award | Gold Medalist in Gymkhana Championship Choreography.
 - 👨‍🏫 **Leadership:** Guided 500+ aspiring engineers at AlgoZenith in Data Structures, Algorithms, and interview problem-solving.
-- 📫 **How to reach me:** [sumanraj4176@gmail.com](mailto:sumanraj4176@gmail.com) | [Portfolio](https://skr18156592.github.io/portfolio/) | [LinkedIn](https://www.linkedin.com/in/sumanraj11/)
+- 📫 **How to reach me:** [sumanraj4176@gmail.com](mailto:sumanraj4176@gmail.com) | [Portfolio](https://sumankumarraj-portfolio.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/sumanraj11/)
 
 ---
 
