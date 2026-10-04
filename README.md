@@ -103,11 +103,3 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
   * Mentored 500+ students in Data Structures and Algorithms, guiding them through complex coding challenges and technical problem-solving.
 * **Teaching Assistant** | *Indian Institute of Technology, Kharagpur* `(Aug 2023 – May 2025)`
   * Conducted tutorials, evaluated assignments, and led doubt-clearing sessions for undergraduate courses at IIT Kharagpur.
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKR18156592&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
