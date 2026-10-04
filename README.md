@@ -1,11 +1,12 @@
 <div align="center">
-  <h1>Welcome to my GitHub! I'm Suman 👋</h1>
-  
-  <!-- Dynamic Typing Effect Subtitle -->
+  <h1>Hi, I'm Suman 👋</h1>
+
   <a href="https://sumankumarraj-portfolio.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%2F+Machine+Learning+Engineer;Architecting+Multi-Agent+Systems;Building+Scalable+ML+Pipelines;Deep+Learning+%26+Generative+AI" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%2F+Machine+Learning+Engineer;Multi-Agent+Systems+with+LangGraph;RAG+%26+Long-Term+Memory+for+LLM+Agents;Deep+Learning+%26+Computer+Vision" alt="Typing Animation" />
   </a>
-  <br>
+
+  <p><b>AI/ML Engineer</b> · IIT Kharagpur (B.Tech + M.Tech) · GATE 2024 AIR 64</p>
+
   <p>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sumanraj4176@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://sumankumarraj-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
@@ -18,102 +19,87 @@
 
 ## 👨‍💻 About Me
 
-I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**, and **scalable deep learning pipelines**. As a Dual Degree (B.Tech + M.Tech) graduate in Ocean Engineering and Naval Architecture from **IIT Kharagpur** (CGPA: 8.12), my focus is on bridging theoretical algorithmic problem-solving with deterministic, production-grade AI systems.
+I build **multi-agent systems**, **stateful LLM workflows**, and **deep learning pipelines**, with a focus on making them reliable enough for production rather than just impressive in a notebook.
 
-- 🔭 **I’m currently focused on:** Multi-Agent Orchestration (LangGraph), Long-Term Memory Systems, and Agentic RAG.
-- 🌱 **I have expertise in:** Deep Learning (TensorFlow/Keras), LangChain, and orchestrating complex ML pipelines.
-- 🏆 **Milestones:** Secured **All India Rank (AIR) 64** in GATE 2024 | Recipient of the Prof. J.P. Ghose Memorial Award | Gold Medalist in Gymkhana Championship Choreography.
-- 👨‍🏫 **Leadership:** Guided 500+ aspiring engineers at AlgoZenith in Data Structures, Algorithms, and interview problem-solving.
-- 📫 **How to reach me:** [sumanraj4176@gmail.com](mailto:sumanraj4176@gmail.com) | [Portfolio](https://sumankumarraj-portfolio.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/sumanraj11/)
-
----
-
-## 🛠️ Technical Stack
-
-* **Generative AI & LLMs:** <br>
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-4A4A4A?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0052CC?style=flat-square) ![Memory Systems](https://img.shields.io/badge/Memory%20Systems-1C3C3C?style=flat-square) ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-4B0082?style=flat-square) ![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-8A2BE2?style=flat-square) ![Retrieval-Augmented Generation (RAG)](https://img.shields.io/badge/Retrieval--Augmented%20Generation%20(RAG)-FF4F8B?style=flat-square) ![VectorDB](https://img.shields.io/badge/VectorDB-090909?style=flat-square) ![GraphDB](https://img.shields.io/badge/GraphDB-0052CC?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF8C00?style=flat-square) ![Tool & Function Calling](https://img.shields.io/badge/Tool%20%26%20Function%20Calling-2E8B57?style=flat-square) ![Structured Outputs](https://img.shields.io/badge/Structured%20Outputs-008080?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-232F3E?style=flat-square)
-
-* **Machine Learning & Deep Learning:** <br>
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) ![CNNs](https://img.shields.io/badge/CNNs-FF69B4?style=flat-square) ![MobileNetV3](https://img.shields.io/badge/MobileNetV3-00BFFF?style=flat-square) ![Classification](https://img.shields.io/badge/Classification-32CD32?style=flat-square) ![Regression](https://img.shields.io/badge/Regression-FFD700?style=flat-square) ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF4500?style=flat-square) ![EDA](https://img.shields.io/badge/EDA-BDB76B?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
-
-* **Programming Languages:** <br>
-  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-
-* **Frameworks and Libraries:** <br>
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-
-* **Platforms & Tools:** <br>
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=flat-square) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-%23F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)
-
-* **Core Engineering & Fundamentals:** <br>
-  ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1A1A1A?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-4B0082?style=flat-square) ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming%20(OOP)-2E8B57?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-232F3E?style=flat-square) ![Probability & Statistics](https://img.shields.io/badge/Probability%20%26%20Statistics-008080?style=flat-square)
+- 🔭 **Currently working on:** multi-agent orchestration with LangGraph, long-term memory for agents, and agentic RAG.
+- 🎓 **Education:** Dual Degree (B.Tech + M.Tech), Ocean Engineering & Naval Architecture, **IIT Kharagpur** (CGPA 8.12).
+- 🏆 **Milestones:** **AIR 64** in GATE 2024 · Prof. J.P. Ghose Memorial Award · Gold Medal, Gymkhana Championship (Choreography).
+- 👨‍🏫 **Mentoring:** guided 500+ engineers in DSA and interview problem-solving at AlgoZenith.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🤖 [Multi-Agent Research Assistant](https://github.com/SKR18156592/multi-agent-research-assistant)
-* **Tech Stack:** `Python` `LangGraph` `LangChain` `OpenAI` `Tavily` `Wikipedia` `LangSmith`
-* Built a multi-agent research system using LangGraph to decompose complex topics into specialized analyst perspectives with human-in-the-loop refinement.
-* Implemented parallel information retrieval using Tavily and Wikipedia, enabling agents to gather and synthesize context from multiple sources.
-* Implemented a map-reduce pipeline to parallelize analyst interviews and synthesize a comprehensive final report.
+`Python` `LangGraph` `LangChain` `OpenAI` `Tavily` `LangSmith`
+* Breaks a research topic into specialised analyst personas, with **human-in-the-loop** review before the agents run.
+* Runs analyst interviews in parallel, grounded in live web (Tavily) and Wikipedia sources.
+* Combines the interviews into one final report using a **map-reduce** step.
 
 ### 🧠 [MyTaskManager](https://github.com/SKR18156592/MyTaskManager)
-* **Tech Stack:** `Python` `LangGraph` `LangChain` `OpenAI` `Pydantic` `Trustcall`
-* Built a stateful AI task-management agent using LangGraph that maintains short-term conversational state and structured long-term memory across interactions.
-* Designed separate Profile, To-Do, and Instruction memory with Pydantic schemas, enabling structured memory extraction, updates, and personalized task management.
-* Implemented conditional agent routing and cyclic workflows to determine when memory updates are required, route operations to the appropriate memory node, and return control to the main agent.
+`Python` `LangGraph` `LangChain` `OpenAI` `Pydantic` `Trustcall`
+* Stateful task-management agent with short-term conversation state and **structured long-term memory** across sessions.
+* Keeps separate Profile, To-Do, and Instruction memories, each defined by a Pydantic schema.
+* Uses conditional routing to decide when memory needs updating, sends the update to the right memory node, then returns control to the main agent.
 
-### 🔍 [Fingerprint Liveness Detection (Presentation Attack Detection)](https://github.com/SKR18156592/Fingerprint-Liveness-Detection)
-* **Tech Stack:** `Python` `TensorFlow` `Keras` `MobileNetV3-Small` `OpenCV`
-* Built a Presentation Attack Detection (PAD) system using MobileNetV3-Small transfer learning to classify fingerprint images as LIVE or SPOOF for biometric authentication.
-* Developed an end-to-end pipeline covering dataset splitting, image augmentation, ImageNet normalization, model training, threshold calibration, and single-image inference.
-* Calibrated the threshold against a target BPCER of 3% and evaluated held-out test performance using APCER, BPCER, ACER, EER, ROC-AUC, F1-score, and APCER-BPCER trade-off analysis.
+### 🔍 [Fingerprint Liveness Detection](https://github.com/SKR18156592/Fingerprint-Liveness-Detection)
+`Python` `TensorFlow` `Keras` `MobileNetV3-Small` `OpenCV`
+* Detects spoofed fingerprints (presentation attacks) using **MobileNetV3-Small** transfer learning, classifying each image as LIVE or SPOOF.
+* Calibrates the decision threshold on the validation set against a target BPCER of ~3%, using standard biometric metrics (APCER, BPCER, ACER, EER).
+* Held-out test: **97.2% accuracy**, **0.973 F1**, **APCER 0.0** (no spoofs accepted), **ACER 2.8%**.
 
 ### 📈 [Lending Club Risk Prediction](https://github.com/SKR18156592/Lendingclub-risk-prediction)
-* **Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow/Keras`
-* Built an end-to-end credit risk prediction pipeline using TensorFlow/Keras on 396K+ Lending Club loan records, covering missing-value handling, categorical encoding, feature engineering, and MinMax scaling.
-* Trained a deep neural network with ReLU activations, dropout, and sigmoid output to classify loans as fully paid or defaulted.
-* Achieved a **0.93 F1-score** on the test set, effectively handling significant class imbalance in loan default prediction.
+`Python` `Pandas` `Scikit-learn` `TensorFlow/Keras`
+* End-to-end loan-default model trained on **396K+** Lending Club records: missing-value handling, categorical encoding, feature engineering, and scaling.
+* Deep neural network with dropout, reaching a **0.93 F1-score** on the test set despite heavy class imbalance.
 
-### 🏋️ Full-Stack: [IronTrack](https://github.com/SKR18156592/IronTrack)
-* **Tech Stack:** `JavaScript` `Vite` `Supabase` `IndexedDB` `Service Workers` `Vitest` `Playwright`
-* Built an installable, offline-first workout tracker PWA with weekly split planning, set-by-set logging, progressive-overload suggestions, analytics, and nutrition targets.
-* Implemented multi-device sync with Supabase Auth, Postgres, and Realtime, with per-record merging so offline edits sync cleanly when back online.
+### 🏋️ [IronTrack](https://github.com/SKR18156592/IronTrack) — Full-Stack PWA
+`JavaScript` `Vite` `Supabase` `IndexedDB` `Service Workers` `Vitest` `Playwright`
+* Installable workout tracker that works offline, with split planning, set-by-set logging, progressive-overload suggestions, analytics, and nutrition targets.
+* Syncs across devices with Supabase Auth, Postgres, and Realtime, merging each record separately so offline edits sync cleanly when back online.
 * **Live:** [App](https://track-sr-8532.vercel.app/) · [Website](https://irontrack-landing.vercel.app/) ([source](https://github.com/SKR18156592/irontrack-landing))
 
----
-
-## 🌐 Open Source
-
-### 📦 [CodeBeat](https://github.com/SKR18156592/CodeBeat) — *Open-Source Python Package*
-* Created a Python profiling package on [PyPI](https://pypi.org/project/codebeat/) for function tracing and execution-time analysis to identify performance bottlenecks.
-* Install: `pip install codebeat`
+### 📦 [CodeBeat](https://github.com/SKR18156592/CodeBeat) — Open-Source Python Package &nbsp;[![PyPI](https://img.shields.io/pypi/v/codebeat.svg)](https://pypi.org/project/codebeat/)
+* Traces a Python function line by line, timing each line across multiple runs (mean ± std) to find bottlenecks.
+* `pip install codebeat`
 
 ---
 
-## 💼 Experience & Mentorship
+## 💼 Experience
 
-* **AI/ML Engineer Intern** | *MakeMyBrain* `(May 2024 – Jul 2024)`
-  * Built an end-to-end mood-based music recommendation RAG system, processing structured metadata, acoustic features, and textual profiles across audio catalogs.
-  * Engineered a hybrid search pipeline combining BM25 keyword matching and dense vector embeddings ($\alpha=0.4$) boosting retrieval Recall@10 from 0.61 to 0.79 compared to lexical search alone.
-  * Implemented a cross-encoder re-ranking stage to filter top 100 retrieved candidates down to top 10-20 tracks before LLM generation, ensuring personalized and context-aware recommendations.
-* **Teaching Assistant** | *Indian Institute of Technology, Kharagpur* `(Aug 2023 – May 2025)`
-  * Conducted tutorials, evaluated assignments, and led doubt-clearing sessions for undergraduate courses at IIT Kharagpur.
-* **Mentor** | *AlgoZenith* `(Oct 2022 – May 2024)`
-  * Mentored 500+ students in Data Structures and Algorithms, guiding them through complex coding challenges and technical problem-solving.
+**AI/ML Engineer Intern** · *MakeMyBrain* · `May 2024 – Jul 2024`
+* Built a mood-based music recommendation **RAG** system over audio metadata, acoustic features, and text profiles.
+* Built a **hybrid search** combining BM25 and dense embeddings (α = 0.4), raising **Recall@10 from 0.61 to 0.79** over keyword search alone.
+* Added a **cross-encoder re-ranker** that narrows the top 100 retrieved tracks to 10–20 before LLM generation.
+
+**Teaching Assistant** · *IIT Kharagpur* · `Aug 2023 – May 2025`
+* Ran tutorials and doubt-clearing sessions and graded assignments for undergraduate courses.
+
+**Mentor** · *AlgoZenith* · `Oct 2022 – May 2024`
+* Mentored 500+ students in Data Structures & Algorithms and technical interview preparation.
+
+---
+
+## 🛠️ Tech Stack
+
+**GenAI & Agents**<br>
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+**ML & Deep Learning**<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Languages & Tools**<br>
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Concepts:** Multi-agent systems · RAG & hybrid retrieval · Agent memory · Tool/function calling · Structured outputs · LLM evaluation · CNNs & transfer learning · MLOps · DSA
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKR18156592&show_icons=true&theme=radical&hide_border=true&hide=contribs&hide_rank=true" alt="Suman's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=SKR18156592&theme=radical&hide_border=true" alt="Suman's GitHub Streak" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKR18156592&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SKR18156592&show_icons=true&theme=radical&hide_border=true&hide=contribs&hide_rank=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKR18156592&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=SKR18156592&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
