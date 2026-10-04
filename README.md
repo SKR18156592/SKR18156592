@@ -24,17 +24,18 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
 - 🌱 **I have expertise in:** Deep Learning (TensorFlow/Keras), LangChain, and orchestrating complex ML pipelines.
 - 🏆 **Milestones:** Secured **All India Rank (AIR) 64** in GATE 2024 | Recipient of the **Prof. J.P. Ghose Memorial Award (2022–23)** for exceptional academic performance | **Gold Medal** in Gymkhana Championship Choreography (2021–22).
 - 👨‍🏫 **Leadership:** Guided 500+ aspiring engineers at AlgoZenith in Data Structures, Algorithms, and interview problem-solving.
-- 📫 **How to reach me:** [sumanraj4176@gmail.com](mailto:sumanraj4176@gmail.com) | [Portfolio](https://sumankumarraj-portfolio.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/sumanraj11/)
 
 ---
 
 ## 🛠️ Technical Stack
 
 * **Generative AI & LLMs:** <br>
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-4A4A4A?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0052CC?style=flat-square) ![Memory Systems](https://img.shields.io/badge/Memory%20Systems-1C3C3C?style=flat-square) ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-4B0082?style=flat-square) ![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-8A2BE2?style=flat-square) ![Retrieval-Augmented Generation (RAG)](https://img.shields.io/badge/Retrieval--Augmented%20Generation%20(RAG)-FF4F8B?style=flat-square) ![VectorDB](https://img.shields.io/badge/VectorDB-090909?style=flat-square) ![GraphDB](https://img.shields.io/badge/GraphDB-0052CC?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF8C00?style=flat-square) ![Tool & Function Calling](https://img.shields.io/badge/Tool%20%26%20Function%20Calling-2E8B57?style=flat-square) ![Structured Outputs](https://img.shields.io/badge/Structured%20Outputs-008080?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-232F3E?style=flat-square)
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-4A4A4A?style=flat-square)<br>
+  Agentic AI · Multi-Agent Systems · Memory Systems · LLM Orchestration · RAG · VectorDB · GraphDB · Prompt Engineering · Tool & Function Calling · Structured Outputs · LLM Evaluation
 
 * **Machine Learning & Deep Learning:** <br>
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) ![CNNs](https://img.shields.io/badge/CNNs-FF69B4?style=flat-square) ![MobileNetV3](https://img.shields.io/badge/MobileNetV3-00BFFF?style=flat-square) ![Classification](https://img.shields.io/badge/Classification-32CD32?style=flat-square) ![Regression](https://img.shields.io/badge/Regression-FFD700?style=flat-square) ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF4500?style=flat-square) ![EDA](https://img.shields.io/badge/EDA-BDB76B?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat-square&logo=opencv&logoColor=white)<br>
+  Neural Networks · CNNs (MobileNetV3) · Classification · Regression · NLP · EDA
 
 * **Programming Languages:** <br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
@@ -46,7 +47,7 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![LangSmith](https://img.shields.io/badge/LangSmith-000000?style=flat-square) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-%23F9AB00.svg?style=flat-square&logo=googlecolab&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)
 
 * **Core Engineering & Fundamentals:** <br>
-  ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-1A1A1A?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-4B0082?style=flat-square) ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming%20(OOP)-2E8B57?style=flat-square) ![MLOps](https://img.shields.io/badge/MLOps-232F3E?style=flat-square) ![Probability & Statistics](https://img.shields.io/badge/Probability%20%26%20Statistics-008080?style=flat-square)
+  Data Structures & Algorithms · DBMS · Object-Oriented Programming · MLOps · Probability & Statistics
 
 ---
 
@@ -106,13 +107,6 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
 ---
 
 ## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKR18156592&show_icons=true&theme=radical&hide_border=true&hide=contribs&hide_rank=true" alt="Suman's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=SKR18156592&theme=radical&hide_border=true" alt="Suman's GitHub Streak" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SKR18156592&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
