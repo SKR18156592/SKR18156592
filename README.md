@@ -2,13 +2,13 @@
   <h1>Welcome to my GitHub! I'm Suman 👋</h1>
   
   <!-- Dynamic Typing Effect Subtitle -->
-  <a href="https://skr18156592.github.io/portfolio/">
+  <a href="https://sumankumarraj-portfolio.vercel.app/">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%2F+Machine+Learning+Engineer;Architecting+Multi-Agent+Systems;Building+Scalable+ML+Pipelines;Deep+Learning+%26+Generative+AI" alt="Typing Animation" />
   </a>
   <br>
   <p>
     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=sumanraj4176@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://skr18156592.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://sumankumarraj-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/sumanraj11/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://leetcode.com/u/sumanraj112002/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   </p>
@@ -34,7 +34,7 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
   ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![LangGraph](https://img.shields.io/badge/LangGraph-4A4A4A?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0052CC?style=flat-square) ![Memory Systems](https://img.shields.io/badge/Memory%20Systems-1C3C3C?style=flat-square) ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-4B0082?style=flat-square) ![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-8A2BE2?style=flat-square) ![Retrieval-Augmented Generation (RAG)](https://img.shields.io/badge/Retrieval--Augmented%20Generation%20(RAG)-FF4F8B?style=flat-square) ![VectorDB](https://img.shields.io/badge/VectorDB-090909?style=flat-square) ![GraphDB](https://img.shields.io/badge/GraphDB-0052CC?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF8C00?style=flat-square) ![Tool & Function Calling](https://img.shields.io/badge/Tool%20%26%20Function%20Calling-2E8B57?style=flat-square) ![Structured Outputs](https://img.shields.io/badge/Structured%20Outputs-008080?style=flat-square) ![LLM Evaluation](https://img.shields.io/badge/LLM%20Evaluation-232F3E?style=flat-square)
 
 * **Machine Learning & Deep Learning:** <br>
-  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![CNNs](https://img.shields.io/badge/CNNs-FF69B4?style=flat-square) ![MobileNetV3](https://img.shields.io/badge/MobileNetV3-00BFFF?style=flat-square) ![Classification](https://img.shields.io/badge/Classification-32CD32?style=flat-square) ![Regression](https://img.shields.io/badge/Regression-FFD700?style=flat-square) ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF4500?style=flat-square) ![EDA](https://img.shields.io/badge/EDA-BDB76B?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) ![CNNs](https://img.shields.io/badge/CNNs-FF69B4?style=flat-square) ![MobileNetV3](https://img.shields.io/badge/MobileNetV3-00BFFF?style=flat-square) ![Classification](https://img.shields.io/badge/Classification-32CD32?style=flat-square) ![Regression](https://img.shields.io/badge/Regression-FFD700?style=flat-square) ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF4500?style=flat-square) ![EDA](https://img.shields.io/badge/EDA-BDB76B?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
 
 * **Programming Languages:** <br>
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
@@ -52,36 +52,43 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
 
 ## 🚀 Featured Projects
 
-### 🤖 Multi-Agent Research Assistant
+### 🤖 [Multi-Agent Research Assistant](https://github.com/SKR18156592/multi-agent-research-assistant)
 * **Tech Stack:** `Python` `LangGraph` `LangChain` `OpenAI` `Tavily` `Wikipedia` `LangSmith`
 * Built a multi-agent research system using LangGraph to decompose complex topics into specialized analyst perspectives with human-in-the-loop refinement.
 * Implemented parallel information retrieval using Tavily and Wikipedia, enabling agents to gather and synthesize context from multiple sources.
 * Implemented a map-reduce pipeline to parallelize analyst interviews and synthesize a comprehensive final report.
 
-### 🧠 MyTaskManager
+### 🧠 [MyTaskManager](https://github.com/SKR18156592/MyTaskManager)
 * **Tech Stack:** `Python` `LangGraph` `LangChain` `OpenAI` `Pydantic` `Trustcall`
 * Built a stateful AI task-management agent using LangGraph that maintains short-term conversational state and structured long-term memory across interactions.
 * Designed separate Profile, To-Do, and Instruction memory with Pydantic schemas, enabling structured memory extraction, updates, and personalized task management.
 * Implemented conditional agent routing and cyclic workflows to determine when memory updates are required, route operations to the appropriate memory node, and return control to the main agent.
 
-### 🔍 Fingerprint Liveness Detection (Presentation Attack Detection)
+### 🔍 [Fingerprint Liveness Detection (Presentation Attack Detection)](https://github.com/SKR18156592/Fingerprint-Liveness-Detection)
 * **Tech Stack:** `Python` `TensorFlow` `Keras` `MobileNetV3-Small` `OpenCV`
 * Built a Presentation Attack Detection (PAD) system using MobileNetV3-Small transfer learning to classify fingerprint images as LIVE or SPOOF for biometric authentication.
 * Developed an end-to-end pipeline covering dataset splitting, image augmentation, ImageNet normalization, model training, threshold calibration, and single-image inference.
 * Calibrated the threshold against a target BPCER of 3% and evaluated held-out test performance using APCER, BPCER, ACER, EER, ROC-AUC, F1-score, and APCER-BPCER trade-off analysis.
 
-### 📈 Lending Club Risk Prediction
+### 📈 [Lending Club Risk Prediction](https://github.com/SKR18156592/Lendingclub-risk-prediction)
 * **Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow/Keras`
 * Built an end-to-end credit risk prediction pipeline using TensorFlow/Keras on 396K+ Lending Club loan records, covering missing-value handling, categorical encoding, feature engineering, and MinMax scaling.
 * Trained a deep neural network with ReLU activations, dropout, and sigmoid output to classify loans as fully paid or defaulted.
 * Achieved a **0.93 F1-score** on the test set, effectively handling significant class imbalance in loan default prediction.
 
+### 🏋️ Full-Stack: [IronTrack](https://github.com/SKR18156592/IronTrack)
+* **Tech Stack:** `JavaScript` `Vite` `Supabase` `IndexedDB` `Service Workers` `Vitest` `Playwright`
+* Built an installable, offline-first workout tracker PWA with weekly split planning, set-by-set logging, progressive-overload suggestions, analytics, and nutrition targets.
+* Implemented multi-device sync with Supabase Auth, Postgres, and Realtime, with per-record merging so offline edits sync cleanly when back online.
+* **Live:** [App](https://track-sr-8532.vercel.app/) · [Website](https://irontrack-landing.vercel.app/) ([source](https://github.com/SKR18156592/irontrack-landing))
+
 ---
 
-## 🌐 Open Source Contributions
+## 🌐 Open Source
 
-### 📦 CodeBeat — *Open-Source Python Package*
-* Created a Python profiling package on PyPI for function tracing and execution-time analysis to identify performance bottlenecks.
+### 📦 [CodeBeat](https://github.com/SKR18156592/CodeBeat) — *Open-Source Python Package*
+* Created a Python profiling package on [PyPI](https://pypi.org/project/codebeat/) for function tracing and execution-time analysis to identify performance bottlenecks.
+* Install: `pip install codebeat`
 
 ---
 
@@ -101,7 +108,7 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SKR18156592&show_icons=true&theme=radical&hide_border=true" alt="Suman's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SKR18156592&show_icons=true&theme=radical&hide_border=true&hide=contribs" alt="Suman's GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=SKR18156592&theme=radical&hide_border=true" alt="Suman's GitHub Streak" />
 </div>
 
