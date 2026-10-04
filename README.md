@@ -18,11 +18,11 @@
 
 ## 👨‍💻 About Me
 
-I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**, and **scalable deep learning pipelines**. As a Dual Degree (B.Tech + M.Tech) graduate in Ocean Engineering and Naval Architecture from **IIT Kharagpur** (CGPA: 8.12), my focus is on bridging theoretical algorithmic problem-solving with deterministic, production-grade AI systems.
+I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**, and **scalable deep learning pipelines**. As a Dual Degree (B.Tech + M.Tech) graduate in Ocean Engineering and Naval Architecture from **IIT Kharagpur** (CGPA: 8.12, 2020–2025), my focus is on bridging theoretical algorithmic problem-solving with deterministic, production-grade AI systems.
 
 - 🔭 **I’m currently focused on:** Multi-Agent Orchestration (LangGraph), Long-Term Memory Systems, and Agentic RAG.
 - 🌱 **I have expertise in:** Deep Learning (TensorFlow/Keras), LangChain, and orchestrating complex ML pipelines.
-- 🏆 **Milestones:** Secured **All India Rank (AIR) 64** in GATE 2024 | Recipient of the Prof. J.P. Ghose Memorial Award | Gold Medalist in Gymkhana Championship Choreography.
+- 🏆 **Milestones:** Secured **All India Rank (AIR) 64** in GATE 2024 | Recipient of the **Prof. J.P. Ghose Memorial Award (2022–23)** for exceptional academic performance | **Gold Medal** in Gymkhana Championship Choreography (2021–22).
 - 👨‍🏫 **Leadership:** Guided 500+ aspiring engineers at AlgoZenith in Data Structures, Algorithms, and interview problem-solving.
 - 📫 **How to reach me:** [sumanraj4176@gmail.com](mailto:sumanraj4176@gmail.com) | [Portfolio](https://sumankumarraj-portfolio.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/sumanraj11/)
 
@@ -65,10 +65,10 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
 * Implemented conditional agent routing and cyclic workflows to determine when memory updates are required, route operations to the appropriate memory node, and return control to the main agent.
 
 ### 🔍 [Fingerprint Liveness Detection (Presentation Attack Detection)](https://github.com/SKR18156592/Fingerprint-Liveness-Detection)
-* **Tech Stack:** `Python` `TensorFlow` `Keras` `MobileNetV3-Small` `OpenCV`
-* Built a Presentation Attack Detection (PAD) system using MobileNetV3-Small transfer learning to classify fingerprint images as LIVE or SPOOF for biometric authentication.
-* Developed an end-to-end pipeline covering dataset splitting, image augmentation, ImageNet normalization, model training, threshold calibration, and single-image inference.
-* Calibrated the threshold against a target BPCER of 3% and evaluated held-out test performance using APCER, BPCER, ACER, EER, ROC-AUC, F1-score, and APCER-BPCER trade-off analysis.
+* **Tech Stack:** `Python` `TensorFlow` `Keras` `MobileNetV3-Small` `OpenCV` `Scikit-Learn`
+* Engineered an end-to-end Presentation Attack Detection (PAD) system fine-tuning **MobileNetV3-Small** (490K trainable parameters) with TensorFlow/Keras to classify fingerprint images as LIVE or SPOOF.
+* Calibrated an optimal decision boundary of **0.3300** targeting a **BPCER of 3%**, securing an **Accuracy of 97.22%**, an **ROC-AUC of 1.000**, an **F1-Score of 0.9730**, and zero false-negative spoof bypasses (**APCER: 0.0000**).
+* Developed robust preprocessing and evaluation pipelines using OpenCV and Scikit-Learn to deliver real-time binary classification inference with spoof confidence scores up to **99.84%**.
 
 ### 📈 [Lending Club Risk Prediction](https://github.com/SKR18156592/Lendingclub-risk-prediction)
 * **Tech Stack:** `Python` `Pandas` `NumPy` `Scikit-learn` `TensorFlow/Keras`
@@ -96,12 +96,12 @@ I specialize in architecting **Multi-Agent systems**, **stateful LLM workflows**
 
 * **AI/ML Engineer Intern** | *MakeMyBrain* `(May 2024 – Jul 2024)`
   * Built an end-to-end mood-based music recommendation RAG system, processing structured metadata, acoustic features, and textual profiles across audio catalogs.
-  * Engineered a hybrid search pipeline combining BM25 keyword matching and dense vector embeddings ($\alpha=0.4$) boosting retrieval Recall@10 from 0.61 to 0.79 compared to lexical search alone.
-  * Implemented a cross-encoder re-ranking stage to filter top 100 retrieved candidates down to top 10-20 tracks before LLM generation, ensuring personalized and context-aware recommendations.
-* **Teaching Assistant** | *Indian Institute of Technology, Kharagpur* `(Aug 2023 – May 2025)`
-  * Conducted tutorials, evaluated assignments, and led doubt-clearing sessions for undergraduate courses at IIT Kharagpur.
+  * Engineered a hybrid search pipeline combining BM25 keyword search and semantic search ($\alpha=0.4$), boosting retrieval Recall@10 from 0.61 to 0.79 compared to lexical search alone.
+  * Implemented a cross-encoder re-ranking stage to filter top 30 retrieved candidates down to top 5–10 tracks before LLM generation, ensuring personalized and context-aware recommendations.
 * **Mentor** | *AlgoZenith* `(Oct 2022 – May 2024)`
   * Mentored 500+ students in Data Structures and Algorithms, guiding them through complex coding challenges and technical problem-solving.
+* **Teaching Assistant** | *Indian Institute of Technology, Kharagpur* `(Aug 2023 – May 2025)`
+  * Conducted tutorials, evaluated assignments, and led doubt-clearing sessions for undergraduate courses at IIT Kharagpur.
 
 ---
 
